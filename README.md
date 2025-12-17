@@ -66,13 +66,13 @@ The BiLSTM model achieves higher BLEU than the Transformer baseline under identi
 
 ---
 
-## Author
+## Authors
 
 **Nandhakumar Vadivel**  
+Master’s in Artificial Intelligence, University at Buffalo  
+
+**Kanisha Raja**  
 Master’s in Artificial Intelligence, University at Buffalo
-**Kanisha Raja**
-Master’s in Artificial Intelligence, University at Buffalo
----
 
 ## Repository Usage
 
